@@ -15,12 +15,6 @@ draft: false
 
 # The escape
 
-```
-This dream experienced when I was a teenager, maybe 13-16 age.
-I didn't have a firend like the one in my dream, nor did I
-have a fiend that moved and bought their own house.
-```
-
 The sky churned with storm clouds, a canvas of smoke and fire painted by war. The air was thick with the scent of burning rubble and the echoes of distant gunfire, a land torn apart by violence. I was one of many—just another refugee swallowed by the tide of the desperate, all of us pushing forward with the same singular hope: escape.
 
 The train station was chaos, a mass of bodies surging toward salvation. I shoved my way through, my breath ragged, my heartbeat a war drum against my ribs. When I finally stepped onto the train, it felt like crossing a threshold into another world. A space of steel and flickering lights, packed with the frightened and the weary, yet still a lifeline. By some stroke of luck, I found an empty seat. I collapsed into it, the exhaustion in my limbs overtaken by a fragile ember of hope.
