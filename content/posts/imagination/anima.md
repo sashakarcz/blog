@@ -4,9 +4,9 @@ date: 2025-02-26
 slug: /the-initiation/
 image: images/anima18.png
 categories:
-  - "Active Imagination"
+  -  imagination
 tags:
-  - "Active Imagination"
+  - imagination
   - jung
   - anima
 draft: false
