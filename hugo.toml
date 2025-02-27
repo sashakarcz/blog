@@ -1,0 +1,47 @@
+baseURL = 'https://blog.starnix.net/'
+languageCode = 'en-us'
+title = 'Encounters with the Unconsious'
+theme = 'pehtheme-hugo'
+
+paginate = '6' # <- Set the desired number of posts per page 
+summaryLength = '20' # <- 20 words are approximately 160 characters
+
+[params]
+	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
+	description = 'My goal here is to document my nighttime travels and explorations into my unconscious. I will have records of my dreams, as well as any profound active imaginations'
+	mainSections = 'posts'
+
+[author]
+	name = 'Sasha Karcz'
+	bio = 'Time traveler that is stuck in the present. Freemason and Alchemist. Interested in mathematics, physics, open source, antique telephones, Jung, and mysticism.'
+	avatar = '/images/avatar.jpg'
+
+[menu] # Menu management
+	[[menu.main]]
+		name = 'Home'
+		pageRef = '/'
+		weight = 10
+	[[menu.main]]
+		name = 'About'
+		pageRef = '/about'
+		weight = 15
+	[[menu.main]]
+		name = 'Dreams'
+		pageRef = '/tags/dreams'
+		weight = 20
+	[[menu.main]]
+		name = 'Active Imaginations'
+		pageRef = '/imagniation'
+		weight = 25
+        [[menu.main]]
+                name = 'Movies'
+                pageRef = '/movies'
+                weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+  [module.mounts] # Directing the static folder to assets.
+  	source = 'assets'
+  	target = 'static'
