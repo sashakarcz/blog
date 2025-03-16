@@ -36,13 +36,15 @@ As Enigma’s *[Return to Innocence](https://www.youtube.com/watch?v=Rk_sAHh9s08
 > *That's the return to yourself*\
 > *The return to innocence.*
 
-### Jungian Interpretation: Individuation, the Self, and the Shadow
+### Jungian Interpretation: Individuation, the Self, the Shadow, and the Anima
 
 Building upon the film’s meditation on death as a transformative force, *The Fountain* also delves deeply into the psychological journey of individuation. The film’s three interwoven narratives are not merely separate tales but rather different manifestations of a single consciousness—three facets of Tommy’s psyche at various stages of growth and realization.
 
 The three storylines in *The Fountain* represent different aspects of Tommy’s psyche:
 
 * **Tomas, the conquistador** – The **persona**, the outwardly projected self, the man of action, seeking to conquer death externally.
+    * **The Grand Inquisitor** – **The Shadow**, the authoritarian and oppressive force that stands in direct opposition to The Queen. The Inquisitor represents Tommy’s unconscious fear of death, dogmatically enforcing resistance to transformation and spiritual awakening. Tomas is prepared to kill The Grand Inquisitor, but is stopped by The Queen (anima/sophia).
+    * **The Queen** - **The Anima/Sophia**, representing wisdom, intuition, and the guiding feminine principle. She urges Tomas towards acceptance and understanding, preventing his destructive impulses by stopping him from killing the Inquisitor. She acts as a guide towards individuation. Furthermore, she sends Tomas on his quest with the promise of ruling together as Adam and Eve, signifying a [hieros gamos](https://en.wikipedia.org/wiki/Hieros_gamos), a sacred marriage, that represents the unification of opposites and the achievement of wholeness.
 * **Tommy, the scientist** – The **ego**, obsessed with control and resisting the inward journey. His initial denial and obsession also manifest his **Shadow**, the repressed aspects of his psyche that he refuses to acknowledge.
 * **Future Tommy, the ascetic traveler in the bubble** – The **Self**, surrendering to the greater mystery and achieving transcendence, integrating all aspects of his psyche.
 
