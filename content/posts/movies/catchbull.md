@@ -55,7 +55,8 @@ These themes are beautifully crystallized in the lyrical passage:
 > Her silver hair flowed in the air laying waves across the sun \
 > Her hands were like the white sands, and her eyes had diamonds on \
 > \
-> We left the road and headed up to the top of the whisper woodAnd we walked 'till we came to where the holy magnolia stood \
+> We left the road and headed up to the top of the whisper wood\
+> And we walked 'till we came to where the holy magnolia stood \
 > And there we laid cool in the shade singing songs and making love \
 > With the naked earth beneath us and the universe above
 
