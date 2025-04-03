@@ -20,7 +20,7 @@ draft: false
 
 # Catch Bull at Four: A Jungian-Alchemical Journey of the Soul
 
-Cat Stevens’ *Catch Bull at Four* (1972) is more than an album—it is a sacred text of sound. Framed within a mythic structure, it follows an inner pilgrimage through the psyche, mirroring both Jung’s process of individuation and the alchemist’s opus magnum. Through its poetic lyrics and mystical soundscapes, it becomes a musical grimoire of transformation.
+Cat Stevens’ **Catch Bull at Four** (1972) is more than an album—it is a sacred text of sound. Framed within a mythic structure, it follows an inner pilgrimage through the psyche, mirroring both Jung’s process of individuation and the alchemist’s Great Work. Through its poetic lyrics and mystical soundscapes, it becomes a musical grimoire of transformation.
 
 The album's title itself references the Ten Bulls of Zen, which describe the stages of spiritual awakening. Catch Bull at Four aligns perfectly with the fourth stage—wrestling with the unconscious forces within—before entering into union with the divine source of the Self.
 
