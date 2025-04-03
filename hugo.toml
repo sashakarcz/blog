@@ -33,10 +33,14 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 		name = 'Active Imagination'
 		pageRef = '/tags/imagination'
 		weight = 25
-        [[menu.main]]
-                name = 'Movies'
-                pageRef = '/tags/movies'
-                weight = 30
+    [[menu.main]]
+        name = 'Movies'
+        pageRef = '/tags/movies'
+        weight = 30
+	[[menu.main]]
+        name = 'Music'
+        pageRef = '/tags/music'
+        weight = 35
 
 [module]
   [module.hugoVersion]
