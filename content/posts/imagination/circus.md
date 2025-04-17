@@ -21,7 +21,7 @@ draft: false
 
 Recently, I asked the tarot what I needed to learn about myself. The cards I drew were **Strength**, **Five of Swords**, and **Ace of Cups**. The message was clear: I needed to understand the power of compassion, the weight of internal conflict, and the possibility of emotional renewal.
 
-Later that day, I entered into a state of active imagination—a process rooted in Jungian practice—allowing my awareness to drift inward and follow the symbolic threads of the unconscious. My journey began in a place intimately familiar: my childhood home.
+Later that day, I entered into a state of [active imagination](https://en.wikipedia.org/wiki/Active_imagination)—a process rooted in Jungian practice—allowing my awareness to drift inward and follow the symbolic threads of the unconscious. My journey began in a place intimately familiar: my childhood home.
 
 I imagined myself walking up to the front door. The house stood silent, heavy with the presence of old memories. I unlocked the door and stepped inside. The air was thick with familiarity, like dust suspended in stillness. To my right, the staircase curved upward to my old bedroom. I ascended slowly, each step echoing with the weight of time.
 
