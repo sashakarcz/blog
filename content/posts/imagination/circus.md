@@ -6,7 +6,7 @@ slug: /return-to-the-inner-circus/
 description: "An active imagination journey into memory, healing, and the inner child."
 image: images/circus.png
 categories:
-- active imagination
+- imagination
 
 tags:
 - inner child
