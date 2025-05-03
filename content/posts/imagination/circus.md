@@ -11,7 +11,7 @@ categories:
 tags:
 - inner child
 - jungian
-- active imagination
+- imagination
 
 draft: false
 
