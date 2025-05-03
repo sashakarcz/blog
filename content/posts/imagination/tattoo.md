@@ -67,4 +67,3 @@ The High Priestess reveals its mystery.
 The World dances them together in wholeness.
 
 And here I stand—in the dance, in the threshold, in the beautiful unfolding of it all.
-`
