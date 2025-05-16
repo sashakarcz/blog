@@ -30,7 +30,7 @@ In Jungian terms, the Shadow represents the unconscious aspects of the psyche th
 
 The children’s book that mysteriously appears states plainly:
 
-> “The more you deny, the stronger I get.”
+> The more you deny, the stronger I get.
 
 As Amelia continues to avoid processing her trauma—the grief of losing her husband, the exhaustion of single motherhood, the resentment toward her child—the Babadook grows stronger. Eventually, it overwhelms her entirely, resulting in full possession by the Shadow.
 
@@ -44,7 +44,7 @@ But this is not Oscar. It is the Shadow in disguise, seducing her with the illus
 
 Only when "Oscar" demands she sacrifice her son does the illusion shatter. What follows is not a retreat—but an eruption of sacred fury:
 
-> “If you touch my son again, I’ll fucking kill you.”
+> If you touch my son again, I’ll fucking kill you.
 
 This is Amelia’s moment of psychic sovereignty—when she breaks from illusion, reclaims her will, and begins the process of individuation.
 
@@ -60,7 +60,7 @@ Samuel is not simply a difficult child—he is a mirror of the unspoken grief an
 
 And in the film’s most spiritual moment, when Amelia is fully possessed by the Babadook and attempts to harm him, Samuel refuses to run. Instead, he wraps his arms around her and says:
 
-> “I love you, Mom.”
+> I love you, Mom.
 
 This simple act of love cuts through the Shadow. His compassion becomes the catalyst for transformation, prompting Amelia to vomit up the darkness—initiating her *nigredo* and the beginning of integration.
 
@@ -76,7 +76,7 @@ Amelia vomits out a thick, black fluid—her body writhing, her psyche convulsin
 
 Only after this catharsis can Amelia confront the Babadook—not to destroy it, but to contain and relate to it:
 
-> “You’re trespassing in *my* house.”
+> You’re trespassing in *my* house.
 
 This marks a shift from possession to integration. The Shadow no longer rules—Amelia does.
 
@@ -96,11 +96,11 @@ The circuit between the garden and the basement—between the flowering, solar s
 
 Samuel asks about the Babadook:
 
-> “When can I see it?”
+> When can I see it?
 
 Amelia responds:
 
-> “Maybe when you’re older.”
+> Maybe when you’re older.
 
 The work of confronting the Shadow is not yet his burden. For now, he is protected—but curious. The answer acknowledges the initiatory nature of the Shadow. You must be ready. And he will be, in time.
 
