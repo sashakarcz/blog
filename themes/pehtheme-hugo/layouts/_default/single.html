@@ -72,13 +72,15 @@
 
     <div id="content" class="mb-14">
       <!-- Content -->
-
       {{- .Content -}}
 
       <!-- Tags list -->
-
       {{- partial "terms.html" (dict "taxonomy" "tags" "page" .) -}}
 
+      <!-- Disqus comments -->
+      {{ if .Site.DisqusShortname }}
+        {{ template "_internal/disqus.html" . }}
+      {{ end }}
     </div>
 
     <footer id="content-footer" class="not-prose">
