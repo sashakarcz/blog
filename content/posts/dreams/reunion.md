@@ -58,7 +58,7 @@ The dream pivots powerfully when I speak to my son—who, on reflection, I recog
 
 This isn’t simply a statement of belief—it’s a revelation shared with the part of me that has waited so long to hear it. The child in me—the one who carries old pain and unfulfilled longing—hears that his suffering is not meaningless. That the journey I’m on is for him. That he matters.
 
-This moment is is inner reunification -- a healing dialogue between my present, conscious self and the vulnerable child within who longs for wholeness.
+This moment is is inner reunification-a healing dialogue between my present, conscious self and the vulnerable child within who longs for wholeness.
 
 ### From Soul to Image: The Facebook Scroll
 
