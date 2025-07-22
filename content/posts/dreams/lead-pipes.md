@@ -1,6 +1,6 @@
 ---
 title: "The Lead Pipes"
-date: 2025-01-22
+date: 2025-07-21
 slug: /lead-pipes/
 description: "A symbolic dream of excavation, prima materia, and the call to deeper alchemical work"
 image: images/lead-pipes.png
