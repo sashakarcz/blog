@@ -126,7 +126,7 @@ invokes the Rubedo, the final alchemical stage. It signifies wholeness, rebirth,
 > All my dreams have blown away \
 > And the children wait to play
 
-This verse suggests the end of illusion and the beginning of conscious living. The children waiting to play are the forces of renewal and spontaneity, now ready to animate a soul cleansed of shadow.
+This verse suggests the end of illusion and the beginning of conscious living. The children waiting to play are the forces of renewal and spontaneity, now ready to animate a soul fully integrated with the Shadow.
 
 > Morning songbird, sing away \
 > Lend a tune to another day \
