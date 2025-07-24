@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/alchemy/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/dreams/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dreams/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jung/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prima-materia/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dreams/lead-pipes/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/freemasonry/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
@@ -17,26 +41,11 @@
     <loc>http://localhost:1313/tags/mysticism/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/symbolism/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/freemasonry/master-mason-true-name/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/dreams/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dreams/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jung/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mentor/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
@@ -67,9 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/imagination/phantom/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/alchemy/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/esoteric/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
@@ -146,10 +152,22 @@
     <loc>http://localhost:1313/posts/dreams/the-initiation/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prima-materia/</loc>
+    <loc>http://localhost:1313/tags/consciousness/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dreams/lead-pipes/</loc>
+    <loc>http://localhost:1313/posts/imagination/holding-the-dance/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kashmir-shaivism/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychological-inquiry/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tarot/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tarot/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
