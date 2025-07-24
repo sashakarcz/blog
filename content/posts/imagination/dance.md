@@ -9,9 +9,8 @@ categories:
 tags:
   - tarot
   - jung
-  - kashmir-shaivism
   - consciousness
-  - psychological-inquiry
+  - imagination
 draft: false
 ---
 
